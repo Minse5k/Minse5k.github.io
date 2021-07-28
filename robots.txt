@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minse5k.github.io/sitemap.xml
